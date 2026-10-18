@@ -377,9 +377,8 @@ Open-access repository
 ### 🌐
 **OPENAIRE**
 
-[Indexed Records]([https://explore.openaire.eu/search?q=0009-0003-6477-091X](https://explore.openaire.eu/search/result?pid=10.5281/zenodo.18617681)
-
-European research index
+[Indexed Records][https://explore.openaire.eu/search/find?fv0=Nezamivand%20chegane%20vahid&f0=q
+European research index]
 
 </td>
 <td align="center" width="25%">
