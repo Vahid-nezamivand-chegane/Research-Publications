@@ -377,7 +377,7 @@ Open-access repository
 ### 🌐
 **OPENAIRE**
 
-[Indexed Records](https://explore.openaire.eu/search?q=0009-0003-6477-091X)
+[Indexed Records]([https://explore.openaire.eu/search?q=0009-0003-6477-091X](https://explore.openaire.eu/search/result?pid=10.5281/zenodo.18617681)
 
 European research index
 
