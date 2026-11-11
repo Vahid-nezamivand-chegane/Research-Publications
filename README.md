@@ -18,33 +18,34 @@
 
 </div>
 
+<br>
+
 <div align="center">
 
-<h1>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=header&text=RESEARCH%20PORTFOLIO&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=55&desc=Where%20Science%20Meets%20Systems%20Thinking&descSize=18&descAlignY=80" width="80%" />
-</h1>
+## ⟨ THE · ECOSYSTEM ⟩
+
+*Pioneering the intersection of Energy, Water, AI, and Climate Resilience.*
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="75%" />
-
-<br>
-
-<a href="https://orcid.org/0009-0003-6477-091X">
-  <img src="https://img.shields.io/badge/ORCID-0009--0003--6477--091X-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />
-</a>
-<a href="https://vahid-nezamivand-chegane.github.io">
-  <img src="https://img.shields.io/badge/🚀_AQUANEXUS-0a2a44?style=for-the-badge&labelColor=00d4ff" />
-</a>
-<a href="https://hakim-vahid.github.io/">
-  <img src="https://img.shields.io/badge/🌌_HAKIM_VAHID-2a9d8f?style=for-the-badge&labelColor=0a2a44" />
-</a>
-<a href="https://www.linkedin.com/in/vahid-nezamevand-chegane">
-  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:vahidmaykoltarh@yahoo.com">
-  <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<table align="center" width="100%" style="border-collapse: separate; border-spacing: 15px;">
+<tr>
+<td align="center" width="50%" style="background: linear-gradient(145deg, #0a2a44, #1a6fb5); padding: 25px; border-radius: 15px; border: 2px solid #00d4ff; box-shadow: 0 0 20px rgba(0, 212, 255, 0.2);">
+  <h2 style="color: #ffffff; margin-top: 0;">🚀 AQUANEXUS</h2>
+  <p style="color: #a0d8ef; font-size: 14px;">Integrated Zero-Carbon Geothermal Platform</p>
+  <a href="https://vahid-nezamivand-chegane.github.io">
+    <img src="https://img.shields.io/badge/⚡_EXPLORE_THE_PLATFORM-0a2a44?style=for-the-badge&labelColor=00d4ff&logoColor=0a2a44" height="35" />
+  </a>
+</td>
+<td align="center" width="50%" style="background: linear-gradient(145deg, #0a2a44, #2a9d8f); padding: 25px; border-radius: 15px; border: 2px solid #2a9d8f; box-shadow: 0 0 20px rgba(42, 157, 143, 0.2);">
+  <h2 style="color: #ffffff; margin-top: 0;">🌌 HAKIM VAHID</h2>
+  <p style="color: #b2dfdb; font-size: 14px;">The Ultimate AI Operating System</p>
+  <a href="https://hakim-vahid.github.io/">
+    <img src="https://img.shields.io/badge/🚀_EXPLORE_THE_AI_PLATFORM-0a2a44?style=for-the-badge&labelColor=2a9d8f&logoColor=0a2a44" height="35" />
+  </a>
+</td>
+</tr>
+</table>
 
 </div>
 
